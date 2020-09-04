@@ -30,7 +30,7 @@
     "html-withimg-loader": "^0.1.16",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.1   .0",
+    "node-sass": "^4.13",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.0",
     "url-loader": "^2.2.0",
